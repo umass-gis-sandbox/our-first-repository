@@ -9,3 +9,5 @@ BECKY WUZ HERE
 Here's another edit.
 
 (Mikhaela testing editing with branches)
+
+Anne added a link to the git zine on the wiki resources list
